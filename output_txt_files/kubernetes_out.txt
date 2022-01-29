@@ -1,1 +1,7 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "udacityproject" already exists
+pod/udacityproject condition met
+NAME             READY   STATUS    RESTARTS   AGE
+udacityproject   1/1     Running   0          73s
+Forwarding from [::1]:80 -> 80
+Handling connection for 80
+
